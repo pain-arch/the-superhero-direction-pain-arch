@@ -1,0 +1,10 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-right: 50px!;
+}
+.actors-container{
+    margin-right: 5px;
+    margin-left: 50px;
+}
+
